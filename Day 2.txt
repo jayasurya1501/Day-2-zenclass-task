@@ -1,0 +1,20 @@
+Q1.Write a blog on the Difference between document and window objects
+
+
+Document Object:
+
+    *Manages HTML document content and structure.
+    *Enables DOM manipulation with methods like getElementById().
+    *Alters content with createElement() and handles events.
+
+Window Object:
+
+    *Represents the browser window or tab.
+    *Provides global scope for JavaScript with properties like location.
+    *Facilitates user interaction through methods like alert().
+
+Differences and Use Cases:
+
+    *Document focuses on content and structure; Window handles browser interaction.
+    *Document manipulates the DOM; Window manages global browser scope.
+    *Document hierarchy is within Window, representing content within the browser.
